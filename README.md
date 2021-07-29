@@ -1,6 +1,6 @@
-# text_classification_10labels
+# Text Classification
 
-# Models dùng để huấn luyện việc phân loại 10 :
+# Xây dựng các mô hình nhằm phân loại văn bản thuộc 10 thể loại sau :
 + Kinh doanh 
 + Khoa học 
 + Pháp luật 
